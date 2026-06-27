@@ -1,8 +1,8 @@
-\# 🔐 Full Stack User Authentication System
+\# Full Stack User Authentication System
 
 
 
-\## 📌 Project Overview
+\# Project Overview
 
 
 
@@ -18,17 +18,17 @@ The system allows only registered users to access the application. Unregistered 
 
 
 
-\## ⚙️ Tech Stack
+\# Tech Stack
 
 
 
-\### Frontend
+\# Frontend
 
 \- React (Vite)
 
 
 
-\### Backend
+\# Backend
 
 \- Python
 
@@ -36,7 +36,7 @@ The system allows only registered users to access the application. Unregistered 
 
 
 
-\### Database
+\# Database
 
 \- MySQL
 
@@ -46,7 +46,7 @@ The system allows only registered users to access the application. Unregistered 
 
 
 
-\## 🚀 Features
+\# Features
 
 \- User Registration system
 
