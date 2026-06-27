@@ -32,13 +32,13 @@ The system allows only registered users to access the application. Unregistered 
 
 \- Python
 
-\- FastAPI 
+\- FastAPI
 
 
 
 \### Database
 
-\- MySQL 
+\- MySQL
 
 
 
@@ -65,8 +65,6 @@ The system allows only registered users to access the application. Unregistered 
 \---
 
 
-
-\## 📁 Project Structure
 
 
 
